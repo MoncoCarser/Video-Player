@@ -68,8 +68,6 @@ video {
   transition: all 0.2s ease-out;
 }
 
-
-
 .control-group {
   width: 100%;
   height: 100%;
@@ -103,7 +101,6 @@ video {
 .progress-range:hover {
   height: 10px;
 }
-
 
 .progress-bar {
   background: var(--primary-color);
